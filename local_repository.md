@@ -8,7 +8,7 @@ git init
 ```
 git add [файл]
 ```
-Теперь нужно _закоммитить_ изменения:
+Далее  _закоммитим_ изменения:
 ```
 git commit -m"init"
 ```
@@ -23,4 +23,4 @@ git remote add origin _URL_
 git push -u origin main
 ```
   
-[<](beginning.md) | К оглавлению |[>](general_operations.md)
+[<](beginning.md) | [К оглавлению](readme.md) | [>](general_operations.md)

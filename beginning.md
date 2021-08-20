@@ -1,5 +1,5 @@
 ## Начало работы
-___
+
 Для начала работы с git нам понадобится редактор [VS Code](https://code.visualstudio.com/) (либо любой другой редактор) и аккаунт на [GitHub](https://github.com/).
 ___
 Прежде всего необходимо указать имя и электронную почту для дальнейшей работы с git. Вводим:
@@ -18,4 +18,4 @@ git config --global user.email "email@adress.com"
 
 ![create-repository](assets/create_repository.png)
 
-[<](intro.md) [К оглавлению](readme.md) [>](local_repository.md)
+[<](intro.md) | [К оглавлению](readme.md) | [>](local_repository.md)

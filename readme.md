@@ -12,3 +12,4 @@
 * [Начало работы](./beginning.md)
 * [Создание локального репозитория](local_repository.md)
 * [Основные операции](general_operations.md)
+* [Заключение](ending.md)

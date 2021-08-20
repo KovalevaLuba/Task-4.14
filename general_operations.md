@@ -23,4 +23,4 @@
 * [git branch](git_branch.md)
 
 
-[<](local_repository.md) | [К оглавлению](readme.md) | [>]()
+[<](local_repository.md) | [К оглавлению](readme.md) | [>](ending.md)
