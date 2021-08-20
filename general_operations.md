@@ -1,19 +1,26 @@
-# Основные операции
+# Основные команды
 
 Однако это были далеко не все операции, которые необходимо знать для работы с git.
 
 Ниже приведен список основных из них:
 
-git clone _адрес_  - создает копию репозитория на компьютере
+* [git init](git_init.md)
 
-git pull - скачивается актуальная версия репозитория и все изменения применяются к локальному репозиторию
+* [git clone](git_clone.md)
 
-git status - просмотр текущих изменений
+* [git status](git_status.md)
 
-git branch _имя ветки_ - создать новую ветку
+* [git add](git_add.md)
 
-git branch -d _имя ветки_ -удалить ветку с локального репозитория
+* [git commit -m" "](git_commit.md)
 
-git push origin --delete _имя ветки_ - удалить ветку в удаленном репозитории
+* [git remote add origin](git_remote.md)
 
-[<](local_repository.md) [>]()
+* [git push](git_push.md)
+
+* [git pull](git_pull.md)
+
+* [git branch](git_branch.md)
+
+
+[<](local_repository.md) | [К оглавлению](readme.md) | [>]()

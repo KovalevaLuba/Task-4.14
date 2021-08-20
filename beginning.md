@@ -18,4 +18,4 @@ git config --global user.email "email@adress.com"
 
 ![create-repository](assets/create_repository.png)
 
-[<](intro.md) [>](local_repository.md)
+[<](intro.md) [К оглавлению](readme.md) [>](local_repository.md)
